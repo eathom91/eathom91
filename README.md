@@ -1,6 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Eric Thomas</h1>
+
 <h3 align="center">A passionate full-stack developer from North Carolina who loves learning, coding, and building applications.</h3>
 
 - 🔭 I’m currently working for [The Looma Project](https://theloomaproject.com/)
