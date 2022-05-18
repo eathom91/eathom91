@@ -2,11 +2,11 @@
 
 <h3 align="center"><u>A passionate full-stack developer from North Carolina who loves and building applications.</u></h3>
 
-<p align="center">- 🔭 I’m currently working for [The Looma Project](https://theloomaproject.com/)</p>
+<p align="center">- I’m currently working for [The Looma Project](https://theloomaproject.com/)</p>
 
-<p align="center">- 🌱 I’m currently learning **Angular, Golang, GraphQL**</p>
+<p align="center">- I’m currently learning **Angular, Golang, GraphQL**</p>
 
-<p align="center">- 📫 How to reach me **eathom91@gmail.com**</p>
+<p align="center">- How to reach me **eathom91@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
