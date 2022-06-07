@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric Thomas</h1>
+<h1 align="center">Hello, I'm Eric Thomas</h1>
 
 <h3 align="center"><u>A passionate full-stack developer from North Carolina who loves and building applications.</u></h3>
 
