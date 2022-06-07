@@ -2,7 +2,7 @@
 
 <h3 align="center"><u>A passionate full-stack developer from North Carolina who loves learning, programming and building applications.</u></h3>
 
-<p align="center">- I’m currently working for [The Looma Project](https://theloomaproject.com/)</p>
+<p align="center">- I’m currently working for [The Looma Project] (https://theloomaproject.com/)</p>
 
 <p align="center">- I’m currently learning **Angular, Golang, GraphQL**</p>
 
