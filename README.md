@@ -6,7 +6,6 @@
 
 <p align="center">- I’m currently learning **Angular, Golang, GraphQL**</p>
 
-<p align="center">- How to reach me **eathom91@gmail.com**</p>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
