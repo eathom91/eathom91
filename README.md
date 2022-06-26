@@ -2,8 +2,6 @@
 
 <h3 align="center"><u>A passionate full-stack developer from North Carolina who loves building applications.</u></h3>
 
-<p align="center">- I’m currently working for [The Looma Project] (https://theloomaproject.com/)</p>
-
 <hr>
 
 <h3 align="center">Connect with me:</h3>
