@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Eric Thomas</h1>
 
-<h3 align="center"><u>A passionate full-stack developer from North Carolina who loves building applications.</u></h3>
+<h3 align="center"><u>A passionate full-stack developer from <br> North Carolina who loves building applications.</u></h3>
 
 <hr>
 
