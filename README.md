@@ -4,8 +4,6 @@
 
 <p align="center">- I’m currently working for [The Looma Project] (https://theloomaproject.com/)</p>
 
-<p align="center">- I’m currently learning **Angular, Golang, GraphQL**</p>
-
 <hr>
 
 <h3 align="center">Connect with me:</h3>
