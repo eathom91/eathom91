@@ -2,7 +2,7 @@
  
 <h3 align="center"><u>A passionate full-stack developer from <br> North Carolina who loves building applications.</u></h3> 
 
-<hr>   
+<hr>    
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
