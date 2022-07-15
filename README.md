@@ -3,7 +3,7 @@
 <h3 align="center"><u>A passionate full-stack developer from <br> North Carolina who loves building applications.</u></h3>  
 <h3 align="center">I currently work at a start-up called The Looma Project as a Full-Stack Software Engineer.</h3>
    
-<hr>      
+<hr>       
  
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
