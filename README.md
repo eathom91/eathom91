@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eric Thomas.<br>Thanks for stopping by!</h1>  
   
 <h3 align="center"><u>A passionate full-stack developer from <br> North Carolina who loves building applications.</u></h3>  
-<h3>I currently work at a start-up called The Looma Project.</h3>
+<h3 align="center">I currently work at a start-up called The Looma Project.</h3>
    
 <hr>      
  
